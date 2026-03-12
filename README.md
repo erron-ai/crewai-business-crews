@@ -2,7 +2,7 @@
 
 Pre-built CrewAI crew definitions for eight business verticals.
 
-Built by **erron.ai**.
+Built by [Erron AI](https://erron.ai).
 
 ## Why this exists
 - Solve a concrete business problem with a practical, extensible baseline.
